@@ -90,14 +90,6 @@ Olá! Meu nome é Paulo César, tenho 17 anos e atualmente estou cursando Análi
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Firebase" 
     title="Firebase"
     width="30px" 
@@ -114,15 +106,15 @@ Olá! Meu nome é Paulo César, tenho 17 anos e atualmente estou cursando Análi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=pcconduru&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcconduru&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
